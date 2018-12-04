@@ -18,11 +18,11 @@
 1. and then
 1. more
 
-<html>
- <head>
-   I want to put some code here
- </head>
-</html>
+'''python
+# code block here
+print("hello world!")
+'''
+
 
 This is python module link [python module] (https://docs.python.org/3/py-modindex.html)
 
