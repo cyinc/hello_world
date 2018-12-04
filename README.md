@@ -19,7 +19,6 @@
 1. more
 
 '''python
-# code block here
 print("hello world!")
 '''
 
