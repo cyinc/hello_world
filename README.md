@@ -22,9 +22,9 @@
 print("hello world!")
 ```
 
+***
 
-
-This is python module link [python module] (https://docs.python.org/3/py-modindex.html)
+This is python module link [python module](https://docs.python.org/3/py-modindex.html)
 
 <emialaddress@6666.com>
 
