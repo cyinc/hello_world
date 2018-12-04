@@ -1,11 +1,19 @@
-# hello_world
-#To learn how to create a new repository
-# Here are some python codes
+# This is the first heading
+## This is the second heading
+### This is the tertiary heading
 
-function addtitle (freinds):
-friends = [Lucy, Lily, Jone, Jack, May, Kally]
-titlelist = []
-for friend in friends:
-    title = 'Dear' + friend
-    titlelist.append(title)
-return titlelist
+* first item in list
+* second item in list 
+* third item in list
+
+**bold text**
+*italic text*
+***bold and italic***
+
+>blackquote
+>>nested blackqoute
+
+1. first is 
+1. and then 
+1. and then
+1. more
