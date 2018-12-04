@@ -18,9 +18,9 @@
 1. and then
 1. more
 
-'''python
-print("hello world!")
-'''
+```python
+print("hello world!")```
+
 
 
 This is python module link [python module] (https://docs.python.org/3/py-modindex.html)
